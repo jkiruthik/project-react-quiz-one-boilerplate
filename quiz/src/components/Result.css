@@ -1,0 +1,34 @@
+#result {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-left: 5px solid #9580ff;
+    height: 350px;
+    width: 500px;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+h4{
+    margin-top: 20px;
+    color: black;
+}
+#result h1{
+    color: black;
+}
+p{
+    color: black;
+}
+#contain{
+    width: 480px;
+    display: flex;
+    justify-content: space-between;
+}
+#Again{
+    color: blue;
+    border: 2px solid blue;
+    margin: 10px;
+}
+#Home{
+    color: green;
+    border: 2px solid green;
+}
